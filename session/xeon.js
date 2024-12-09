@@ -1,3 +1,3 @@
 {
-	"name": "Toxic MD Multi Device "
+	"name": "echo "
 }
